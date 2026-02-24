@@ -2,7 +2,7 @@
 
 **An AI-powered legal research agent that identifies relevant case law, fetches real court opinions, and synthesizes clear answers with proper citations.**
 
-> *I'm building tools for legal AI companies like Harvey. This project demonstrates a two-pass RAG pipeline — Gemini identifies what matters, real legal databases provide the evidence, and Gemini synthesizes the answer. The result: grounded legal research where every case is real, every citation is verified, and the system is transparent about what's sourced vs. interpreted.*
+> * This project demonstrates a two-pass RAG pipeline — Gemini identifies what matters, real legal databases provide the evidence, and Gemini synthesizes the answer. The result: grounded legal research where every case is real, every citation is verified, and the system is transparent about what's sourced vs. interpreted.*
 
 ---
 
