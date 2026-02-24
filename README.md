@@ -1,4 +1,4 @@
-# ⚖️ Constitutional Law Research Agent
+# ⚖️ US Constitutional Law Research Agent
 
 **An AI-powered legal research agent that identifies relevant case law, fetches real court opinions, and synthesizes clear answers with proper citations.**
 
